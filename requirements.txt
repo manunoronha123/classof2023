@@ -3,4 +3,4 @@ pandas
 streamlit
 openpyxl
 requests
-matplotlib.pyplot
+matplotlib
